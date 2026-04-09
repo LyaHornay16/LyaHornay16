@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Marelia Hornay
 
-🎓 Mahasiswa Informatika di Universidade UNTL  
-💻 Fokus pada Machine Learning & Software Development  
+🎓 Informatics Student at Universidade UNTL  
+💻 Focused on Machine Learning & Software Development  
 📍 Timor-Leste  
 
 ---
 
 ## 🚀 About Me
-Saya adalah mahasiswa di bidang Teknik Informatika yang memiliki minat besar dalam pengembangan teknologi, khususnya:
+I am an Informatics Engineering student with a strong interest in technology development, especially in:
 
 - 🤖 Machine Learning
 - 🌐 Web Development
 - 📊 Data Processing
-- 🎥 Content Creator (TikTok edukasi & teknologi)
+- 🎥 Content Creation (Educational & Technology content on TikTok)
 
-Saya suka belajar hal baru dan mengembangkan proyek yang bermanfaat bagi masyarakat.
+I enjoy learning new things and developing projects that are useful for society.
 
 ---
 
@@ -29,13 +29,13 @@ Saya suka belajar hal baru dan mengembangkan proyek yang bermanfaat bagi masyara
 
 ## 📂 Projects
 ### 🚗 Vehicle Detection (Machine Learning)
-Proyek untuk menghitung jumlah kendaraan (motor & mobil) di jalan menggunakan Machine Learning.
+A project to count the number of vehicles (motorcycles & cars) on the road using Machine Learning.
 
 ### 🪖 Helmet Classification (KNN)
-Klasifikasi pengguna helm dan tidak menggunakan algoritma K-Nearest Neighbors.
+Classification of helmet usage using the K-Nearest Neighbors algorithm.
 
 ### 🌐 Network Simulation
-Simulasi jaringan menggunakan Cisco Packet Tracer.
+Network simulation using Cisco Packet Tracer.
 
 ---
 
