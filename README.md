@@ -1,4 +1,15 @@
-# 👋 Hi, I'm Marelia Hornay
+<!-- HEADER -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Marelia+Hornay;Informatics+Student;Machine+Learning+Enthusiast;Future+Software+Engineer;Content+Creator+(TikTok);" />
+
+<img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&style=for-the-badge&color=00f5ff" />
+
+</div>
+
+---
+
+# 👩‍💻 Marelia Hornay
 
 🎓 Informatics Student at Universidade UNTL  
 💻 Focused on Machine Learning & Software Development  
@@ -7,41 +18,41 @@
 ---
 
 ## 🚀 About Me
-I am an Informatics Engineering student with a strong interest in technology development, especially in:
+I am an Informatics Engineering student with a strong interest in:
 
-- 🤖 Machine Learning
-- 🌐 Web Development
-- 📊 Data Processing
-- 🎥 Content Creation (Educational & Technology content on TikTok)
+- 🤖 Machine Learning  
+- 🌐 Web Development  
+- 📊 Data Processing  
+- 🎥 Content Creation (TikTok tech & education)  
 
-I enjoy learning new things and developing projects that are useful for society.
+I enjoy learning new things and building useful projects.
 
 ---
 
 ## 🧠 Skills
-- Programming: Python, Java, C++
-- Machine Learning: KNN, Classification
-- Tools: Git, GitHub, Cisco Packet Tracer
-- Database: MySQL
-- Others: Public Speaking, Problem Solving
+- Programming: Python, Java, C++  
+- Machine Learning: KNN, Classification  
+- Tools: Git & GitHub, Cisco Packet Tracer  
+- Database: MySQL  
+- Others: Public Speaking, Problem Solving  
 
 ---
 
 ## 📂 Projects
-### 🚗 Vehicle Detection (Machine Learning)
-A project to count the number of vehicles (motorcycles & cars) on the road using Machine Learning.
+### 🚗 Vehicle Detection
+Counting vehicles (cars & motorcycles) using Machine Learning.
 
-### 🪖 Helmet Classification (KNN)
-Classification of helmet usage using the K-Nearest Neighbors algorithm.
+### 🪖 Helmet Classification
+Detecting helmet usage using KNN algorithm.
 
 ### 🌐 Network Simulation
-Network simulation using Cisco Packet Tracer.
+Building network simulation using Cisco Packet Tracer.
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your-email@example.com
-- 💻 GitHub: https://github.com/usernamekamu
+## 📫 Contact
+- 📧 your-email@example.com  
+- 💻 https://github.com/USERNAMEKAMU  
 
 ---
 
